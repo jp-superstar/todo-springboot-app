@@ -76,7 +76,8 @@ src/
 ---
 
 ## 🌟 Screenshot
-![Screenshot 2025-04-03 at 7 57 27 PM](https://github.com/user-attachments/assets/2b8ae6e7-b05f-4969-91d8-0d188a88fa5d)
+
+![Screenshot 2025-04-03 at 8 02 30 PM](https://github.com/user-attachments/assets/b5d32198-a9f0-4c11-9ec6-b80ed78e32fa)
 
 ---
 

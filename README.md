@@ -50,54 +50,6 @@ cd todo-springboot-app
 
 ---
 
-## 🔧 Git Commands Explained
-
-### Initialize the Git repository:
-
-```bash
-git init
-```
-
-### Add files:
-
-```bash
-git add .
-```
-
-### Commit changes:
-
-```bash
-git commit -m "Initial commit"
-```
-
-### Add GitHub remote:
-
-```bash
-git remote add origin https://github.com/jp-superstar/todo-springboot-app.git
-```
-
-> If using SSH instead:
-
-```bash
-git remote set-url origin git@github.com:jp-superstar/todo-springboot-app.git
-```
-
-### Rename default branch to main:
-
-```bash
-git branch -M main
-```
-
-### Push to GitHub:
-
-```bash
-git push -u origin main
-```
-
-> `-u` sets upstream so next time you can just do `git push`
-
----
-
 ## 📁 Folder Structure
 
 ```
@@ -124,8 +76,7 @@ src/
 ---
 
 ## 🌟 Screenshot
-
-
+![Screenshot 2025-04-03 at 7 57 27 PM](https://github.com/user-attachments/assets/2b8ae6e7-b05f-4969-91d8-0d188a88fa5d)
 
 ---
 
